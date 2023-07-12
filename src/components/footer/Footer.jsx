@@ -19,11 +19,11 @@ const Footer = () => {
             </ul>
 
             <div className="footer__social">
-            <a href="https://github.com/ashut0sh-tiwari" className="footer__social-link" target='_blank'>
+            <a href="https://github.com/ashut0sh-tiwari" className="footer__social-link" rel='noreferrer' target='_blank'>
             <i class='bx bxl-github'></i>
         </a>
      
-        <a href="https://www.linkedin.com/in/ashut0sh-tiwari/" className="footer__social-link" target='_blank'>
+        <a href="https://www.linkedin.com/in/ashut0sh-tiwari/" className="footer__social-link" rel='noreferrer' target='_blank'>
         <i class='bx bxl-linkedin-square'></i>
             
         </a>
